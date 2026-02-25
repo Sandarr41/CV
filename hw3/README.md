@@ -7,7 +7,6 @@
 ```text
 hw3/
 ├── config.py                     # Общие настройки и пути
-├── data.py                       # Dataloader'ы для CIFAR-10 и подвыборки
 ├── pretrain.py                   # Цикл SSL-предобучения (SimCLR)
 ├── main.py                       # CLI-скрипт запуска SSL-предобучения
 ├── logs/
